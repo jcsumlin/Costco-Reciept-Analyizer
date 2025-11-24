@@ -10,7 +10,7 @@ Script that automates receipt download: https://github.com/ankurdave/beancount_i
 - Login to costco.com
 - Go to https://www.costco.com/OrderStatusCmd.
 - Paste the script from the ankurdave/beancount_import_sources repo linked above into your browsers developer console.
-- ⁠Open html in browser
+- ⁠Open [html in browser](https://jcsumlin.github.io/Costco-Reciept-Analyizer/)
 - ⁠Open the `receipts.json` file downloaded by the scraper in the html page
 - ⁠Your personal Costco Dashboard is now ready.
 
